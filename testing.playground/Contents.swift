@@ -4,4 +4,5 @@ import UIKit
 
 var str = "Hello, playground"
 
-let name = "moises"
+let name = "Moisés"
+let lastName = "Castro"
